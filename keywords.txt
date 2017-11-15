@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ Grove_Ultrasonic_Ranger   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+MeasureInCentimeters  KEYWORD2
+MeasureInInches  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
